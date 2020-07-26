@@ -4,7 +4,9 @@ import './App.css';
 
 function Image() {
   return (
+    <div className="Image">
 
+    </div>
   );
 }
 
