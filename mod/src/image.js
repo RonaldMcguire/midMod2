@@ -31,16 +31,8 @@ function Image() {
       </div>
     </div>
   </div>
-  <div class="col mb-4">
-    <div class="card">
-      <img src="..." class="card-img-top" alt="..."></img>
-      <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-      </div>
-    </div>
-  </div>
-</div>
 
+</div>
     </div>
   );
 }
