@@ -16,9 +16,13 @@ function Image() {
   </div>
   <div class="col mb-4">
     <div class="card">
-      
-</div>
-
+      <img src="..." class="card-img-top" alt="..."></img>
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+      </div>
+    </div>
+  </div>
+  
     </div>
   );
 }
