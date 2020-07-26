@@ -23,7 +23,9 @@ function Image() {
     </div>
   </div>
   <div class="col mb-4">
+    <div class="card">
 
+</div>
 
     </div>
   );
