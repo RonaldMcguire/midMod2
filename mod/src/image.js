@@ -14,7 +14,8 @@ function Image() {
       </div>
     </div>
   </div>
-  
+  <div class="col mb-4">
+    
 
     </div>
   );
