@@ -33,7 +33,7 @@ export default function App() {
             </Link>
           </li>
           <li class="nav-item">
-            <Link class="nav-link" href="#" tabindex="-1">
+            <Link class="nav-link" href="src/FirstProfile.js" tabindex="-1">
             araceli
             <img src ={require('./photos/sun.png')} alt = ""/>
 
