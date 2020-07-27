@@ -2,6 +2,6 @@ import React from 'react';
 
 import './App.css';
 
-function Fstproject() {
-    
+function Fstprofile() {
+
 }
