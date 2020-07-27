@@ -1,15 +1,16 @@
-import React from 'react';
-import Image from './image'
+import React from "react";
+import Image from "./image";
 import './App.css';
 
-function App() {
+import {
+  BrowserRouter as Router,
+ Link
+} from "react-router-dom";
+// import People from './components/People';
+export default function App() {
   return (
-    <div className="App">
-
-<Image />
-
-    </div>
+    <Router>
+ 
+    </Router>
   );
 }
-
-export default App;
