@@ -29,7 +29,7 @@ export default function App() {
           <li class="nav-item">
             <Link class="nav-link" href="#">
               sandra
-            <img src ={require('')} alt = ""/>
+            <img src ={require('./photos/mic.png')} alt = ""/>
             </Link>
           </li>
           <li class="nav-item">
