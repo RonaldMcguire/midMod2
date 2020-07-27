@@ -16,3 +16,10 @@
 .btn{
 border-radius: 300%;
 }
+
+.fixNav{
+  position: fixed;     
+  text-align: center;
+  width: 100%;
+  background-color: black;
+}
