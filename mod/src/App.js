@@ -19,7 +19,7 @@ export default function App() {
       
       <Link class="navbar-brand" href="#">
         daisy 
-      <img src ={require('')} alt = ""/>
+      <img src ={require('./photos/flake.png')} alt = ""/>
       </Link>
     
       <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
