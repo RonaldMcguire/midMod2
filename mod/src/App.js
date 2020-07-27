@@ -35,7 +35,7 @@ export default function App() {
           <li class="nav-item">
             <Link class="nav-link" href="#" tabindex="-1">
             araceli
-            <img src ={require('')} alt = ""/>
+            <img src ={require('./photos/sun.png')} alt = ""/>
 
             </Link>
           </li>
