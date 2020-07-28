@@ -55,6 +55,12 @@ export default function App() {
       </div>
       <img src ={require('./photos/logo.png')} alt = ""  />
       </nav>
+      <form className="ml-auto">                       
+      <input type="text" placeholder="Username" />
+       <input type="password" placeholder="Password" />
+<button type="submit" className="btn btn-default">Login
+  </button>
+         </form>
       </div>
       
 
@@ -89,5 +95,6 @@ export default function App() {
      </div>
     
     </Router>
+    
   );
 }
