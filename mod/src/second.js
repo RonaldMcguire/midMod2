@@ -2,15 +2,15 @@ import React from 'react';
 
 import './App.css';
 
-function Fstprofile() {
+function second() {
 return (
     <div className="Image" id = "size">
         <div class="row row-cols-1" >
             <div class="col mb-4">
                 <div class="card" >
-                <img src ={require('./photos/lady.jpg')} alt = ""  />
+                <img src ={require('./photos/car.jpg')} alt = ""  />
                 <div class="card-body">
-                    <h5 class="card-title">Lady</h5>
+                    <h5 class="card-title">Car</h5>
                 </div>
                 </div>
             </div>
@@ -19,4 +19,4 @@ return (
 );
 }
 
-export default Fstprofile;
+export default second;
